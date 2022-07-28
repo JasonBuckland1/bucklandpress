@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile /13425buildingwithblocks/yourusername/htpasswd
+require valid-user
