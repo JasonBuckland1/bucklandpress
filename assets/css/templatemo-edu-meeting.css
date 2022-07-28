@@ -1834,10 +1834,7 @@ responsive
     color: #1f272b;
   }
     
-    .img-size {
-        width: 10px;
-        height: auto;
-    }
+  
 
 }
 
@@ -1867,7 +1864,7 @@ responsive
   top: 50%;
   width: auto;
   margin-top: -22px;
-  padding: 16px;
+ 
   color: black;
   font-weight: bold;
   font-size: 30px;
@@ -1940,3 +1937,5 @@ responsive
   margin-right: auto;
   width: 50%;
 }
+
+
